@@ -352,31 +352,6 @@ footer {
     font-size: 0.88rem;
   }
 
-  .hero {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 1.2rem;
-  }
-
-  .hero-photo {
-    flex: none;
-    width: 100%;
-  }
-
-  .hero-photo img {
-    width: 100%;
-    max-width: 420px;
-    height: auto;
-  }
-
-  .hero-text h1 {
-    font-size: 1.7rem;
-  }
-
-  .hero-text h2 {
-    font-size: 1.5rem;
-  }
-
   h1 {
     font-size: 1.7rem;
   }
@@ -389,30 +364,4 @@ footer {
     font-size: 0.88rem;
   }
 }
-/* =========================================================
-   Homepage Hero Custom Rules
-   ========================================================= */
-.hero-text h2 {
-    margin-top: 0;
-    font-size: 2rem;
-}
 
-.subtitle {
-    font-size: 1.1rem;
-    font-weight: 500;
-    margin-bottom: 0.8rem;
-}
-
-.research-line {
-    line-height: 1.6;
-}
-
-@media (max-width: 700px) {
-    .hero {
-        flex-direction: column-reverse;
-        align-items: flex-start;
-    }
-    .hero-photo img {
-        width: 180px;
-    }
-}
