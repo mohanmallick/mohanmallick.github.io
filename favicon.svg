@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Dark Navy Background with smooth rounded corners -->
+  <rect width="512" height="512" rx="112" fill="#0A1931" />
+  
+  <!-- Pucci Extremal Operator Script M (\mathcal{M}) in Cream/White -->
+  <!-- Using the mathematical script Unicode character &#x2133; -->
+  <text x="215" y="380" font-family="Georgia, 'Times New Roman', serif" font-size="300" fill="#F8F9FA" text-anchor="middle">&#x2133;</text>
+  
+  <!-- Gold Partial Derivative Symbol -->
+  <text x="410" y="230" font-family="'Times New Roman', Times, serif" font-size="180" font-style="italic" font-weight="bold" fill="#D4AF37" text-anchor="middle">∂</text>
+</svg>
